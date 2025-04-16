@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gpaddock
-- 👀 I’m interested in Data Science, Machine Learning, NBA Statistics
-- 🌱 I’m currently learning Data Science and Spanish at the University of Oregon
-- 💞️ I’m looking to collaborate on projects in aformentioned fields, especially with sports and social media data
+- 👀 I’m interested in Cybersecurity, Data Science, NBA statistics, and am exploring CLI and ArchLinux
+- 🌱 I’m working in Cybersecurity in Chicago
 - 📫 How to reach me: au.paddock@gmail.com
 
 <!---
